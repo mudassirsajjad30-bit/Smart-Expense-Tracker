@@ -1,0 +1,42 @@
+# ---------- Compiled binaries ----------
+*.exe
+*.out
+*.o
+*.obj
+expense_tracker
+expense_tracker.exe
+
+# ---------- Build / Debug / Release folders ----------
+build/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# ---------- Visual Studio Code ----------
+.vscode/
+*.code-workspace
+
+# ---------- Visual Studio ----------
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# ---------- Temporary / OS files ----------
+*.tmp
+*.log
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# ---------- Optional: keep sample data out of version control ----------
+# Uncomment the next two lines if you don't want your personal
+# expense data uploaded to GitHub. The .gitkeep files keep the
+# empty folders in the repo either way.
+# data/expenses.txt
+# data/budget.txt
